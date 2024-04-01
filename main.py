@@ -1,4 +1,4 @@
-print("Hello")
+print("Hello You")
 
 number = int(input("chose a number: "))
 if number % 2 == 0:
