@@ -1,6 +1,6 @@
 print("Hello You")
 
-number = int(input("chose a number: "))
+number = int(input("choose a number: "))
 if number % 2 == 0:
     print("its an even number")
 else:
